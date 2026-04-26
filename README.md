@@ -22,3 +22,7 @@ Building analytics skills to transition into supply chain data analytics.
 
 ## Learning Timeline
 Started: May 2026
+## How to Use This Portfolio
+1. Run `data/sample_data.sql` first to set up the database
+2. Then run any query file in the relevant folder
+3. Tested on PostgreSQL and MySQL
